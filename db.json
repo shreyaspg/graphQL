@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstname": "shreyas",
+      "age": "21",
+      "companyId": "1"
+    },
+    {
+      "id": "22",
+      "firstname": "randomname",
+      "age": "22",
+      "companyId": "2"
+    },
+    {
+      "id": "21",
+      "firstname": "randomness",
+      "age": "20",
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    { "id": "1", "name": "apple", "description": "iphone" },
+    { "id": "2", "name": "google", "description": "pixel" },
+    { "id": "3", "name": "tesla", "description": "tesla" }
+  ]
+}
